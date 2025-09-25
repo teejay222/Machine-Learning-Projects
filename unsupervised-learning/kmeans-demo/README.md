@@ -1,4 +1,4 @@
-# K-means demo: Mall Customers
+# K-means demo: Customer Purchase Behaviour
 
 ## Goal
 Segment customers based on their annual income and spending score using **K-means clustering**.
