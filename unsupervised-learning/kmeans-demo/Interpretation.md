@@ -1,4 +1,4 @@
-**Cluster 1:**
+## Cluster 1:
 
 Age: Younger than average
 
